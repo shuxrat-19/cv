@@ -74,20 +74,20 @@ a:hover {
 
 .cloud-bottom {
   position: absolute;
-  left: 150px;
-  bottom: 150px;
+  left:  9.8rem;
+  bottom: 9.8rem;
 }
 
 .cloud-bottom1 {
   position: absolute;
-  left: 360px;
-  bottom: 320px;
+  left: 22.5rem;
+  bottom: 20rem;
 }
 
 .cloud-bottom2 {
   position: absolute;
-  left: 50px;
-  top: 90px;
+  left: 3.125rem;
+  top: 6rem;
 }
 
 .copyright {
@@ -103,7 +103,7 @@ a:hover {
 .container-top {
   background-color: #9ED2C6;
   position: relative;
-  padding-top: 100px;
+  padding-top: 6.2rem;
 }
 
 .container-bottom {
@@ -113,26 +113,26 @@ a:hover {
 
 .cloud-top {
   position: absolute;
-  right: 330px;
-  bottom: 160px;
+  right: 20.625rem;
+  bottom: 10rem;
 }
 
 .cloud-top1 {
   position: absolute;
-  right: 420px;
-  top: 70px;
+  right: 26.25rem;
+  top: 4.375rem;
 }
 
 .cloud-top2 {
   position: absolute;
-  right: 30px;
-  top: 260px;
+  right: 2rem;
+  top: 16.25rem;
 }
 
 .cloud-top3 {
   position: absolute;
-  left: 430px;
-  top: 10px;
+  left: 27rem;
+  top: 1.6rem;
 }
 
 .name {
