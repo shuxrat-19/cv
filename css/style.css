@@ -43,6 +43,14 @@ a:hover {
   color: #E4F9F5;
 }
 
+.anchor-first {
+  margin: auto 0;
+}
+
+.container-middle a:hover {
+  color: #554994;
+}
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -74,7 +82,7 @@ a:hover {
 
 .cloud-bottom {
   position: absolute;
-  left:  9.8rem;
+  left: 9.8rem;
   bottom: 9.8rem;
 }
 
